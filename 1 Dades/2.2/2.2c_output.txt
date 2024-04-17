@@ -1,0 +1,4 @@
+ Real*16 results:
+ Machine epsilon (mantissa length) =   9.62964972193617926527988971292463659E-0035
+ Exponent lower bound (min number) =   3.36210314311209350626267781732175260E-4932
+ Exponent upper bound (max number) =   1.18973149535723176508575932662800702E+4932

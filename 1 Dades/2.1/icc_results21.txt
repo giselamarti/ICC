@@ -1,0 +1,9 @@
+1) integer a,b,c
+    Result: 0
+
+2) real a,b,c
+    Result: 0.500000000
+    
+3) real a; integer b,c
+    Result: 0.00000000
+    

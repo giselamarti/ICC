@@ -1,0 +1,4 @@
+ Real*8 results:
+ Machine epsilon (mantissa length) =   1.1102230246251565E-016
+ Exponent lower bound (min number) =   2.2250738585072014E-308
+ Exponent upper bound (max number) =   1.7976931348623157E+308
