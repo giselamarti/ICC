@@ -1,0 +1,42 @@
+ Sequential method:
+  
+ Root found:  0.73908513723577784     
+ Number of iterations:          45
+ Final error:   9.9893604499357025E-009
+ Final residue:  -6.7289532834635679E-009
+  
+ -------------------------------------
+  
+ Dichotomy method:
+  
+ Root found:  0.73908513039350510     
+ Number of iterations:          28
+ Final error:   7.4505805969238281E-009
+ Final residue:   4.7223566168597131E-009
+  
+ -------------------------------------
+  
+ Secant method:
+  
+ Root found:  0.73908513321516134     
+ Number of iterations:           6
+ Final error:   7.1956696157116085E-010
+ Final residue:  -1.2212453270876722E-015
+  
+ -------------------------------------
+  
+ False position method:
+  
+ Root found:  0.73908513321516067     
+ Number of iterations:          21
+ Final error:   5.5511151231257827E-017
+ Final residue:   0.0000000000000000     
+  
+ -------------------------------------
+  
+ Newton's method:
+  
+ Root found:  0.73908513321516067     
+ Number of iterations:           5
+ Final error:   1.7012335984389892E-010
+ Final residue:   0.0000000000000000     

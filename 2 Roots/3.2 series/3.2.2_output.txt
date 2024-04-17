@@ -1,0 +1,1 @@
+ Approximation of e using          10 terms:   2.7182818011463845     

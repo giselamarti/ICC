@@ -1,0 +1,6 @@
+ Sequential method:
+     
+ Root found:  0.73908513723577784     
+ Number of iterations:          45
+ Final error:   9.9893604499357025E-009
+ Final residue:  -6.7289532834635679E-009

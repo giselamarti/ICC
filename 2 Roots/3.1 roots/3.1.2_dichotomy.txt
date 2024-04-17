@@ -1,0 +1,6 @@
+ Dichotomy method:
+  
+ Root found:  0.73908513039350510     
+ Number of iterations:          28
+ Final error:   7.4505805969238281E-009
+ Final residue:   4.7223566168597131E-009

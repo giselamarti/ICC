@@ -1,0 +1,6 @@
+ Secant method:
+  
+ Root found:  0.73908513321516134     
+ Number of iterations:           6
+ Final error:   7.1956696157116085E-010
+ Final residue:  -1.2212453270876722E-015
